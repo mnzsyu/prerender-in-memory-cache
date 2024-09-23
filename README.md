@@ -7,13 +7,13 @@ npm install prerender-in-memory-cache --save
 
 ## Environment variables  
 ### CACHE_MAXSIZE 
-Maximum number of items in the cache
-`export CACHE_MAXSIZE=1000`
-default: 100
+Maximum number of items in the cache  
+`export CACHE_MAXSIZE=1000`  
+default: 100  
 ### CACHE_TTL
-Time to live for items in the cache (in seconds)
-`export CACHE_TTL=600`
-default: 60
+Time to live for items in the cache (in seconds)  
+`export CACHE_TTL=600`  
+default: 60  
 
 # License 
 The MIT License (MIT)
